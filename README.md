@@ -43,3 +43,4 @@ Try to manege a clean project structure. (need to discuss)
 * Upload your project files to the `task` folder.
 * Don't upload the `node_modules` and the other auto generated files to git-hub.
 * (add a .gitIgnore file in your project folder to avoid these auto-generated files.)
+* And don't merge the code to tha main branch create a sub-branch and create a pull request for the main branch.
