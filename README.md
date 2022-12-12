@@ -14,6 +14,13 @@ use these apis to get the data as required.
 * [https://dummyjson.com/products/categories](Products) - Use this route to get the category list.
 * [https://dummyjson.com/products/category/smartphones](Products) - Use this route to get data for an single category.
 
+## Design
+
+* Do the design as mentioned in the design.
+* use the API routes that have been provided in the api section.
+* `Navigation` - the category list should be added to the navigation bar. And when the use clicks on the button he/she should be redirected to that specific page.
+* other than the data that have been provided in the routs the rest should be static.
+
 ## WorkFlow
 
 * Install the react project using yarn.
@@ -29,3 +36,10 @@ Assets, SCSS, JavaScript also should be managed separately.
 Or
 
 Try to manege a clean project structure. (need to discuss)
+
+## Uploading the project to github
+
+* Put all of your code in folder with your name.
+* Upload your project files to the `task` folder.
+* Don't upload the `node_modules` and the other auto generated files to git-hub.
+* (add a .gitIgnore file in your project folder to avoid these auto-generated files.)
