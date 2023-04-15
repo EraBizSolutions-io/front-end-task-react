@@ -35,12 +35,9 @@ Assets, SCSS, JavaScript also should be managed separately.
 
 Or
 
-Try to manege a clean project structure. (need to discuss)
+Try to manege a clean project structure.
 
 ## Uploading the project to github
 
-* Put all of your code in folder with your name.
-* Upload your project files to the `task` folder.
-* Don't upload the `node_modules` and the other auto generated files to git-hub.
-* (add a .gitIgnore file in your project folder to avoid these auto-generated files.)
-* And don't merge the code to tha main branch create a sub-branch and create a pull request for the main branch.
+* Create a new repo with your name and do the coding
+* After the task is completed share the repo link with us
