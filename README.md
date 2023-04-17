@@ -16,7 +16,7 @@ use these apis to get the data as required.
 
 ## Design
 
-* Do the design as mentioned in the design.
+* Do the design as mentioned in the design folder.
 * use the API routes that have been provided in the api section.
 * `Navigation` - the category list should be added to the navigation bar. And when the use clicks on the button he/she should be redirected to that specific page.
 * other than the data that have been provided in the routs the rest should be static.
